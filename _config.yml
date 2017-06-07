@@ -1,0 +1,30 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: juliasaltiel.psycho-analysis.clinic
+layout_spectrum: 0.5746402409859002
+typography_spectrum: 0.6850121677853167
+color:
+  brandStrength: 0.6640702250879258
+  lightness: 0.23533456539735198
+  saturation: 0.021144085098057985
+  rhythmicContrast: 0.10037223412655294
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+content: []
+github: true
+url: 'https://juliasaltiel.psycho-analysisclinic/'
+title: Julia Saltiel Psychotherapist
+description: ''
+author:
+  name: 'Configuration Science, All Rights Reserved ©️ Configuration Science Ltd 2017'
+  email: adamsaltiel@psycho-analysis.clinic
+  url: 'http://configurationscience.co.uk/'
