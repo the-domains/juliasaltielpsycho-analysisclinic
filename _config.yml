@@ -5,7 +5,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: juliasaltiel.psycho-analysis.clinic
+name: Julia Saltiel
 layout_spectrum: 0.5746402409859002
 typography_spectrum: 0.6850121677853167
 color:
@@ -21,7 +21,7 @@ color:
     - '#36B1BF'
 content: []
 github: true
-url: 'https://juliasaltiel.psycho-analysisclinic/'
+url: 'http://juliasaltiel.psycho-analysis.clinic/'
 title: Julia Saltiel Psychotherapist
 description: ''
 author:
